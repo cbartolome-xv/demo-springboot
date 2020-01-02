@@ -1,4 +1,4 @@
-ef getPermanentProjectsConfiguration() {
+def getPermanentProjectsConfiguration() {
   def permanentProjects = []
   
   permanentProjects.push([
