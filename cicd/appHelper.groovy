@@ -8,6 +8,7 @@ def getAppFriendlyName() {
 }
 
 def getAdditionalAdminPeopleForTemporaryProject() {
+    println "test:::::"
     return [
         users: [ "carlos" ],
         groups: [ ]
