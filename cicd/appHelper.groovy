@@ -9,7 +9,7 @@ def getAppFriendlyName() {
 
 def getAdditionalAdminPeopleForTemporaryProject() {
     return [
-        users: [ "ajdelaguila" ],
+        users: [ "carlos" ],
         groups: [ ]
     ]
 }
